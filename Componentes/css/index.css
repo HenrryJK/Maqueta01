@@ -1,0 +1,96 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+li {
+  float: left;
+  list-style: none;
+  padding: 10px;
+  margin-top: 10px;
+}
+nav {
+  float: right;
+
+  margin-top: -3px;
+}
+.nav-a {
+  text-decoration: none;
+  font-size: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: black;
+}
+a {
+  text-decoration: none;
+  font-size: 36px;
+  color: rgb(85, 117, 165);
+}
+
+button {
+  float: right;
+  margin-left: 850px;
+  margin-right: 46px;
+  margin-top: 3px;
+
+  width: 156px;
+  height: 46px;
+  border-radius: 5px;
+  border: solid 1px #09c173;
+
+  font-size: 16px;
+  font-weight: 500;
+  color: #09c173;
+}
+i {
+  margin-top: 10px;
+  margin-left: 20px;
+  color: rgb(80, 224, 87);
+}
+
+/*.Bitmap {
+  width: 1500px;
+  height: 650px;
+  margin: 82px 0 0;
+  padding: 128px 90px 100px 20px;
+  object-fit: contain;
+  margin-top: -159px;
+}*/
+
+img {
+  width: 1519px;
+  height: 650px;
+  margin: -20px 0 0;
+  object-fit: contain;
+  margin-top: -10px;
+}
+btn-arreglo1 {
+  margin: 100px auto;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+header {
+  background-color: aliceblue;
+}
+.txt-parrafo {
+  position: absolute;
+  margin-top: -535px;
+  margin-left: 35px;
+}
+.txt-parrafo h1,
+p {
+  padding: 10px 5px;
+  font-family: Rubik;
+  color: azure;
+  font-size: 60px;
+}
+
+p {
+  font-size: 32px;
+}
+
+.text-h1,
+.text-p1 {
+  color: black;
+}
